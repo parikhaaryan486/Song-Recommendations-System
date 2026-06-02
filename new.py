@@ -5,8 +5,8 @@ from fer import FER
 import base64
 
 
-SPOTIPY_CLIENT_ID = '19ec4724daa6435781a505dc1a45262d'
-SPOTIPY_CLIENT_SECRET = '02e87b75fd574ecca5eeb05face9a2be'
+SPOTIPY_CLIENT_ID = 'spotify client id'
+SPOTIPY_CLIENT_SECRET = 'spotify client secret'
 EMOTION_LABELS = ['angry', 'disgust', 'fear', 'happy', 'sad', 'surprise', 'neutral']
 
 
